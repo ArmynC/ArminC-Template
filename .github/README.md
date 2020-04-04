@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-Template/archive/master.zip"><img src="https://github.com/Armync/ArminC-Template/images/arminc_template.png" alt="ArminC Template"></a>
+  <a href="https://github.com/ArmynC/ArminC-Template/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-Template/master/images/arminc_template.png" alt="ArminC Template"></a>
 </h1>
 
 <h4 align="center">A high-quality GitHub Template built for developers.</h4>
@@ -43,11 +43,11 @@
   
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed elit eros, suscipit eu lobortis et, iaculis non mi. 
 
-Praesent tincidunt mauris nec quam _fermentum imperdiet_. Etiam rhoncus augue magna, eget gravida velit dictum nec. 
+Praesent tincidunt mauris nec quam _fermentum imperdiet_. Etiam rhoncus augue magna, **eget gravida** velit dictum nec. 
 
 **Sed in** laoreet arcu, ac tempor erat. **Vestibulum ac nisl sollicitudin** enim efficitur _sagittis at eu nunc_. 
 
-![ArminC Template Preview](https://github.com/Armync/ArminC-Template/images/arminc_preview.png)
+![ArminC Template Preview](https://raw.githubusercontent.com/ArmynC/ArminC-Template/master/images/arminc_preview.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
