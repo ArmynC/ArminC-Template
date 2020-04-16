@@ -10,7 +10,7 @@ ArminC Template is an open source project and we love to receive contributions f
 
 Again, defining this up front means less work for you. If someone ignores your guide and submits something you don’t want, you can simply close it and point to your policy.
 
-Please, don't use the issue tracker for [support questions](https://github.com/ArmynC/ArminC-Template#troubleshooting). Check whether the issue fix is already posted somewhere in this repository. If your problem is not strictly related to your fault, try to [contact me](https://github.com/ArmynC/ArminC-Template#support). Searching on the community is also worth considering.
+Please, don't use the issue tracker for [support questions](https://github.com/ArmynC/ArminC-Template/blob/master/.github/README.md#support). Check whether the issue fix is already posted somewhere in this repository. Searching on the community is also worth considering.
 
 # Ground rules
 
@@ -18,7 +18,7 @@ This includes not just how to communicate with others (being respectful, conside
 
 Responsibilities:
 * Ensure compatibility for every change that's accepted. Older, current and beta game versions.
-* Ensure that code that goes into core meets all requirements in this [checklist](https://github.com/ArmynC/ArminC-Template/blob/master/docs/PULL_REQUEST_TEMPLATE.md).
+* Ensure that code that goes into core meets all requirements in this [checklist](https://github.com/ArmynC/ArminC-Template/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
 * Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 
 # Your first contribution
@@ -73,7 +73,7 @@ Providing the following information will increase the chances of your issue bein
 * Complete the full Issue Template - GitHub support issue templates and ArminC Template provides one to make submitting an issue with all of the required information more straightforward.
 * Suggest a Fix - if you can't fix the bug yourself, perhaps you can point to what might be causing the problem (line of code or commit).
 
-When filing an issue, make sure to answer correctly at the [all questions](https://github.com/ArmynC/ArminC-Template/blob/master/docs/ISSUE_TEMPLATE.md). Be careful not to jump over any step of the process.
+When filing an issue, make sure to answer correctly at the [all questions](https://github.com/ArmynC/ArminC-Template/blob/master/.github/ISSUE_TEMPLATE/bug_report.md). Be careful not to jump over any step of the process.
 
 # How to suggest a feature or enhancement
 
