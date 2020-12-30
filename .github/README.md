@@ -97,7 +97,7 @@ Do you **need some help**? Check the _articles_ from the [wiki](https://github.c
 
 ## Contributing
 
-Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-Template/blob/master/docs/CONTRIBUTING.md).
+Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-Template/blob/master/.github/CONTRIBUTING.md).
 
 ## Author
 
@@ -119,6 +119,6 @@ Reach out to me at one of the following places:
 
 ## License
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?style=flat-square)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
 
 - Copyright © [ArminC](https://arminc.ga "ArminC Directory Database").
